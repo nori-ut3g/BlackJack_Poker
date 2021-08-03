@@ -1,0 +1,32 @@
+/* cssを記述しましょう。 */
+.transform-right-rotate{
+    transform: rotate( 90deg );
+}
+.transform-left-rotate{
+    transform: rotate( -90deg );
+}
+.transform-reverse-rotate{
+    transform: rotate( 180deg );
+}
+.transform-no-rotate{
+    transform: rotate( 0deg );
+}
+
+.btn-selected{
+    opacity: 0.5
+}
+.btn-not-selected{
+    opacity: 1
+}
+
+.card-shape{
+    width : 3.5em;
+    height : 5em;
+    border-radius: 0.5em;
+}
+.card-texture-shape{
+
+    width : 3.1em;
+    height : 4.6em;
+    border-radius: 0.4em;
+}
