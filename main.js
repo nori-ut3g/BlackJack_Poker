@@ -325,7 +325,7 @@ class Render{
             "D":"https://recursionist.io/img/dashboard/lessons/projects/diamond.png",
             "C":"https://recursionist.io/img/dashboard/lessons/projects/clover.png",
             "S":"https://recursionist.io/img/dashboard/lessons/projects/spade.png",
-            "B":"https://cdn.pixabay.com/photo/2018/09/12/09/04/wall-3671612_640.jpg"
+            "B":"https://beiz.jp/images_P/stone/stone_00086.jpg"
         }
         let valueDirectionClass;
         switch (cardDirection) {
